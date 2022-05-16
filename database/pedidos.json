@@ -1,0 +1,248 @@
+[
+  {
+    "codigo": 1981,
+    "data": "2019-03-29",
+    "itens": [
+      {
+        "codigo": 2,
+        "nome": "Bruschetta de salmão e abacate",
+        "descricao": "Pão preto, salmão defumado, queijo Philadelphia, abacate, tomate, ovos.",
+        "preco": 52.49,
+        "peso": 180,
+        "foto": "cafe2.jpg",
+        "desconto": 10,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 320,
+        "disponibilidade": 7,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 1,
+        "quantidade": 4
+      },
+      {
+        "codigo": 20,
+        "nome": "Filé mignon com batata",
+        "descricao": "Filé mignon, manteiga, pimenta do reino, tomate, batata.",
+        "preco": 57.29,
+        "peso": 220,
+        "foto": "carne1.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 480,
+        "disponibilidade": 5,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 5,
+        "quantidade": 2
+      }
+    ],
+    "total": 324.54,
+    "cliente": 4,
+    "status": 5
+  },
+  {
+    "codigo": 2125,
+    "data": "2021-05-14",
+    "itens": [
+      {
+        "codigo": 2,
+        "nome": "Bruschetta de salmão e abacate",
+        "descricao": "Pão preto, salmão defumado, queijo Philadelphia, abacate, tomate, ovos.",
+        "preco": 52.49,
+        "peso": 180,
+        "foto": "cafe2.jpg",
+        "desconto": 10,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 320,
+        "disponibilidade": 7,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 1,
+        "quantidade": 1
+      },
+      {
+        "codigo": 4,
+        "nome": "Panquecas de queijo",
+        "descricao": "Folhada, recheio de queijo, rúcula, cenoura, pepino, rabanete.",
+        "preco": 32.34,
+        "peso": 110,
+        "foto": "cafe4.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 380,
+        "disponibilidade": 7,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 1,
+        "quantidade": 2
+      }
+    ],
+    "total": 117.17,
+    "cliente": 2,     
+    "status": 1
+  },
+  {
+    "codigo": 2345,
+    "data": "2021-05-17",
+    "itens": [
+      {
+        "codigo": 5,
+        "nome": "Sanduíche de queijo",
+        "descricao": "Pão torrado, queijo cheddar, queijo gouda, manteiga, rúcula, cenoura, pepino, rabanete.",
+        "preco": 22.34,
+        "peso": 110,
+        "foto": "cafe5.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 5,
+        "totalDeAvaliacoes": 480,
+        "disponibilidade": 7,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 1,
+        "quantidade": 1
+      }
+    ],
+    "total": 22.34,
+    "cliente": 2,
+    "status": 2
+  },
+  {
+    "codigo": 2874,
+    "data": "2020-03-21",
+    "itens": [
+      {
+        "codigo": 10,
+        "nome": "Berinjelas ao estilo oriental",
+        "descricao": "Berinjelas, nozes, curry, creme de leite, alho.",
+        "preco": 19.44,
+        "peso": 145,
+        "foto": "aperitivo3.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 380,
+        "disponibilidade": 6,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 2,
+        "quantidade": 2
+      },
+      {
+        "codigo": 14,
+        "nome": "Salada de berinjela",
+        "descricao": "Berinjela, tomate, pimentão, pimentão, óleo de milho, alho, verduras frescas.",
+        "preco": 23.5,
+        "peso": 120,
+        "foto": "salada1.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 3,
+        "totalDeAvaliacoes": 280,
+        "disponibilidade": 8,
+        "totalDeCompras": 0,
+        "ehVegetariano": true,
+        "categoria": 3,
+        "quantidade": 1
+      },
+      {
+        "codigo": 3,
+        "nome": "Xícara de chá",
+        "descricao": "Xícara de chá de ervas egípcias.",
+        "preco": 5.34,
+        "peso": 150,
+        "foto": "bebida3.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 480,
+        "disponibilidade": 5,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 8,
+        "quantidade": 3
+      }
+    ],
+    "total": 78.4,
+    "cliente": 2,
+    "status": 5
+  },
+  {
+    "codigo": 3108,
+    "data": "2019-05-11",
+    "itens": [
+      {
+        "codigo": 12,
+        "nome": "Tomates marinados em vinagre",
+        "descricao": "Tomate, vinagre de uva, salsa, sementes de abóbora, azeite, alho.",
+        "preco": 12.62,
+        "peso": 120,
+        "foto": "aperitivo5.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 3,
+        "totalDeAvaliacoes": 280,
+        "disponibilidade": 8,
+        "totalDeCompras": 0,
+        "ehVegetariano": true,
+        "categoria": 2,
+        "quantidade": 2
+      },
+      {
+        "codigo": 18,
+        "nome": "Sopa de macarrão com almôndegas",
+        "descricao": "Macarrão caseiro, vitela, caldo de carne, cebola, cenoura, açafrão, feijão mungo.",
+        "preco": 26.69,
+        "peso": 180,
+        "foto": "sopa2.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 480,
+        "disponibilidade": 5,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 4,
+        "quantidade": 1
+      }
+    ],
+    "total": 51.93,
+    "cliente": 2,
+    "status": 3
+  },
+  {
+    "codigo": 4251,
+    "data": "2020-07-11",
+    "itens": [
+      {
+        "codigo": 14,
+        "nome": "Salada de berinjela",
+        "descricao": "Berinjela, tomate, pimentão, pimentão, óleo de milho, alho, verduras frescas.",
+        "preco": 23.5,
+        "peso": 120,
+        "foto": "salada1.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 3,
+        "totalDeAvaliacoes": 280,
+        "disponibilidade": 8,
+        "totalDeCompras": 0,
+        "ehVegetariano": true,
+        "categoria": 3,
+        "quantidade": 3
+      },
+      {
+        "codigo": 19,
+        "nome": "Sopa de cebola",
+        "descricao": "Cebola, farinha de trigo, batata, ovos, coentro, manteiga.",
+        "preco": 23.5,
+        "peso": 150,
+        "foto": "sopa3.jpg",
+        "desconto": 0,
+        "pontosDasAvaliacoes": 4,
+        "totalDeAvaliacoes": 480,
+        "disponibilidade": 5,
+        "totalDeCompras": 0,
+        "ehVegetariano": false,
+        "categoria": 4,
+        "quantidade": 2
+      }
+    ],
+    "total": 117.5,
+    "cliente": 2,
+    "status": 4
+  }
+]

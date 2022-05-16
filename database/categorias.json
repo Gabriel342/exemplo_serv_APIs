@@ -1,0 +1,42 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Cafés",
+    "descricao": "Descrição da categoria de cafés"
+  },
+  {
+    "codigo": 2,
+    "nome": "Aperitivos",
+    "descricao": "Descrição da categoria de aperitivos"
+  },
+  {
+    "codigo": 3,
+    "nome": "Saladas",
+    "descricao": "Descrição da categoria de saladas"
+  },
+  {
+    "codigo": 4,
+    "nome": "Sopas",
+    "descricao": "Descrição da categoria de sopas"
+  },
+  {
+    "codigo": 5,
+    "nome": "Carnes",
+    "descricao": "Descrição da categoria de carnes"
+  },
+  {
+    "codigo": 6,
+    "nome": "Frango",
+    "descricao": "Descrição da categoria de frango"
+  },
+  {
+    "codigo": 7,
+    "nome": "Sobremesas",
+    "descricao": "Descrição da categoria de sobremesas"
+  },
+  {
+    "codigo": 8,
+    "nome": "Bebidas",
+    "descricao": "Descrição da categoria de bebidas"
+  }
+]

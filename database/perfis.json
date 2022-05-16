@@ -1,0 +1,12 @@
+[
+  {
+    "codigo": 1,
+    "nome": "Administrador",
+    "papel": "admin"
+  },
+  {
+    "codigo": 2,
+    "nome": "Usuário",
+    "papel": "usuario"
+  }
+]

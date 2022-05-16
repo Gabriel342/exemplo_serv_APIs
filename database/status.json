@@ -1,0 +1,8 @@
+[
+  { "codigo": 1, "nome": "Em processamento" },
+  { "codigo": 2, "nome": "Aguardando" },
+  { "codigo": 3, "nome": "Recusado" },
+  { "codigo": 4, "nome": "Pendente" },
+  { "codigo": 5, "nome": "Concluído" },
+  { "codigo": 6, "nome": "Cancelado" }
+]

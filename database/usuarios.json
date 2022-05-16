@@ -1,0 +1,66 @@
+[
+  {
+    "codigo": 1,
+    "perfil": 1,
+    "nome": "Bruno",
+    "email": "bruno@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 2,
+    "perfil": 1,
+    "nome": "Warhol",
+    "email": "warhol@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 3,
+    "perfil": 2,
+    "nome":"Ashley",
+    "email": "ashley@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 4,
+    "perfil": 2,
+    "nome":"Julia",   
+    "email": "julia@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 5,
+    "perfil": 2,
+    "nome":"Lusia",   
+    "email": "lusia@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 6,
+    "perfil": 2,
+    "nome":"Adam",  
+    "email": "adam@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 7,
+    "perfil": 2,
+    "nome":"Tereza",  
+    "email": "tereza@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  },
+  {
+    "codigo": 8,
+    "perfil": 2,
+    "nome":"Michael",  
+    "email": "michael@gmail.com",
+    "senha": "$2a$10$CW6OC4KoASX3sgUZbNnKNOeefLUcD1nMLeJcVQ.8CubQ0bQkym.Um",
+    "dtaCriacao": "2021-05-10"
+  }
+]
